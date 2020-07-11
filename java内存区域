@@ -1,3 +1,4 @@
 jvm是一个进程，当操作系统给jvm这个进程分配内存后，jvm将得到的内存划分为以下几部分。
+![Image text](https://github.com/colgmz/-java-/blob/master/png/Java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F.png)
 
 
